@@ -1,0 +1,34 @@
+{
+  "name": "getting-started-tutorial",
+  "version": "0.0.1",
+  "devDependencies": {
+    "browserify": "latest",
+    "grunt": "^0.4.5",
+    "grunt-browserify": "latest",
+    "grunt-contrib-watch": "latest"
+  },
+  "description": "https://scotch.io/tutorials/learning-react-getting-started-and-concepts",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewdschulman/ReactJS-Node-Express-Tutorials.git"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "matt-schulman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewdschulman/ReactJS-Node-Express-Tutorials/issues"
+  },
+  "homepage": "https://github.com/matthewdschulman/ReactJS-Node-Express-Tutorials#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.3.13",
+    "babelify": "^7.2.0",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3"
+  }
+}
